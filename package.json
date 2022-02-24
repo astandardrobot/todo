@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jonah Perry <jjperr18@stlawu.edu>",
+  "author": "Jonah Perry",
   "license": "UNLICENSED",
   "dependencies": {
     "argon2": "^0.28.3",
@@ -22,3 +22,4 @@
     "morgan": "^1.10.0"
   }
 }
+
